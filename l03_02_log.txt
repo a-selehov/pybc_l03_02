@@ -1,0 +1,32 @@
+  694  mkdir pybc_l03_02
+  695  ls
+  696  cd pybc_l03_02
+  697  git init
+  698  nano script_02.py
+  699  ls
+  700  python script_02.py 
+  701  ls
+  702  git status
+  703  git add .
+  704  git commit -m "Create script_02.py and the result - test.gif"
+  705  git status
+  706  git push origin master
+  707  git remote add https://github.com/a-selehov/pybc_l03_02.git
+  708  git remote add origin https://github.com/a-selehov/pybc_l03_02.git
+  709  git push origin master
+  710  git status
+  711  ды
+  712  ls
+  713  nano script_02.py 
+  714  python script_02.py 
+  715  ls
+  716  git status
+  717  git add .
+  718  git status
+  719  git commit -m "Rebuild script_02.py and the results of 3 gif files"
+  720  git status
+  721  git push origin master
+  722  history
+distillery:[pybc_l03_02](master): touch l03_02_log.txt
+
+https://github.com/a-selehov/pybc_l03_02.git
